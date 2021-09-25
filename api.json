@@ -1,4 +1,10 @@
-{
-    "UserName": "Mahdiy",
-    "password": "1234"
-}
+[
+    {
+        "itemName": "Choynak",
+        "price": "18,000"
+    },
+    {
+        "itemName": "Piyola",
+        "price": "5,000"
+    }
+]
